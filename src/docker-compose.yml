@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  yourgroup-php-4:
+    image: php:8.2.12-apache
+    container_name: MEREWENEZA_JOHN-php-4
+    volumes:
+      - "C:/xampp/htdocs/test_git_docker:/var/www/html"
+    ports:
+    - "8090:80"

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Index</title>
     <style>
-        
+
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -44,7 +44,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to the Hospital Management System</h1>
+        <h1>Welcome to INDEX</h1>
         <a href="registration.php">Register</a> | <a href="login.php">Login</a>
     </div>
 </body>
